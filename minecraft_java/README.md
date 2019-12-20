@@ -7,18 +7,9 @@ It’s set in infinitely-generated worlds of wide open terrain - icy mountains, 
 ## Server Ports
 The minecraft server requires a single port for access (default 25565) but plugins may require extra ports to enabled for the server.
 
-## Spigot
-A collection of spigot and forked spigot eggs.
-
-[Spigot](https://www.spigotmc.org/)  
-This is a direct fork of the default spigot service with the added benefit of being able to build the spigot jar.  
-- (It's noted that building the jar is intensive and time consuming)
-
-[PaperMC GitHub](https://github.com/PaperMC/Paper)  
-High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies  
-
-[Taco Spigot GitHub](https://github.com/TacoSpigot/TacoSpigot)  
-An even-higher higher performance PaperSpigot fork that adds new features.  
+## Cuberite
+A lightweight, fast and extensible game server for Minecraft
+[Cuberite](https://cuberite.org/)
 
 ## Forge 
 [Forge MC](https://files.minecraftforge.net/)  
@@ -38,7 +29,25 @@ Supply values to 2 variables to use
 [FTB Revelation](https://www.feed-the-beast.com/projects/ftb-revelation)  
 Revelation is a general all-purpose modpack with optimal FPS, server performance and stability.  
 
-#### Technic Packs
+## Paper
+Currently the default on pterodactyl for many reasons. First being that you don't need to build the jar.
+
+[PaperMC GitHub](https://github.com/PaperMC/Paper)  
+High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies  
+
+## Spigot
+A collection of spigot and forked spigot eggs.
+
+[Spigot](https://www.spigotmc.org/)  
+This is a direct fork of the default spigot service with the added benefit of being able to build the spigot jar.  
+- (It's noted that building the jar is intensive and time consuming)
+
+## Sponge
+
+[SpongeVanilla](https://www.spongepowered.org/)
+A community-driven open source Minecraft: Java Edition modding platform.
+
+## Technic Packs
 [Hexxit](https://www.technicpack.net/modpack/hexxit)  
 Gear up and set forth on a campaign worthy of legend, for Hexxit has been unearthed!  
 
